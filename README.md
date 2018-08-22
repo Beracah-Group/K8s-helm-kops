@@ -11,3 +11,5 @@ https://medium.com/containermind/how-to-create-a-kubernetes-cluster-on-aws-in-fe
 > host sample app on AWS
 
 > practice with AWS security auditing
+
+> Look into AWS nosql databases
